@@ -1,6 +1,6 @@
 Target capture using a swarm of small satellites - Case 1:
 
-![Demo Video](videos/demo.mp4)
+![Demo Video](capture with 13 agents - synch - large rocket stage.mp4)
 
 
 Target capture using a swarm of small satellites - Case 2:
