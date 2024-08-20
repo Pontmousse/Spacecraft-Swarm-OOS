@@ -1,5 +1,7 @@
 Target capture using a swarm of small satellites - Case 1:
 
+![Demo Video](videos/demo.mp4)
+
 
 Target capture using a swarm of small satellites - Case 2:
 
