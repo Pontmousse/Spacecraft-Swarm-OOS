@@ -18,5 +18,5 @@ Agent observing target through point cloud sensing:
 
 
 
-https://github.com/user-attachments/assets/e3ff934c-df32-4d13-8a99-78d7844fe4eb
+https://github.com/user-attachments/assets/b74e184f-3baf-4005-850b-5862162f1a97
 
