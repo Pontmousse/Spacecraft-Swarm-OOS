@@ -17,9 +17,3 @@ Target capture using a swarm of small satellites - Case 2 - Agent's perspective:
 https://github.com/user-attachments/assets/307b873d-a5f9-4a04-913e-06bda91b7d54
 
 Agent observing target through point cloud sensing:
-
-https://github.com/user-attachments/assets/19f392b1-972f-42b7-8469-385c16702b53
-
-
-https://github.com/user-attachments/assets/5ea7ce6b-c50e-4b91-bf53-5fcaacb27e7c
-
