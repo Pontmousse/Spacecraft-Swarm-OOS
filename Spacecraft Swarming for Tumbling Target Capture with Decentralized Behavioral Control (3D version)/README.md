@@ -10,9 +10,11 @@ Target capture using a swarm of small satellites - Case 3:
 
 Target capture using a swarm of small satellites - Case 1 - Agent's perspective:
 
+https://github.com/user-attachments/assets/438db3c1-6572-4484-969e-0db0ef02a947
 
 Target capture using a swarm of small satellites - Case 2 - Agent's perspective:
 
+https://github.com/user-attachments/assets/307b873d-a5f9-4a04-913e-06bda91b7d54
 
 Agent observing target through point cloud sensing:
 
