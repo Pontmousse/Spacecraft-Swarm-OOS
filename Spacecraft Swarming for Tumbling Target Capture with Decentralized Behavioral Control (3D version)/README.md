@@ -1,6 +1,5 @@
 Target capture using a swarm of small satellites - Case 1:
 
-
 https://github.com/user-attachments/assets/7fdc5c64-5e89-4c0c-9a6e-7e2d89f5fcc1
 
 
@@ -14,10 +13,10 @@ Target capture using a swarm of small satellites - Case 1 - Agent's perspective:
 
 Target capture using a swarm of small satellites - Case 2 - Agent's perspective:
 
-![Demo Video](Eye-in-hand-2.mp4)
 
 Agent observing target through point cloud sensing:
 
-![Video PCO](https://github.com/user-attachments/assets/f6e836cc-bef2-4a0f-8ad9-23fd58041ea0)
 
-![Rotational PCO](https://github.com/user-attachments/assets/73fb559d-4e23-4ca7-9e8e-3d3b2b83db4b)
+
+https://github.com/user-attachments/assets/e3ff934c-df32-4d13-8a99-78d7844fe4eb
+
