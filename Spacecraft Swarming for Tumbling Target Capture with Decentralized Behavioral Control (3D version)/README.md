@@ -2,7 +2,7 @@ Hello !
 
 Below are animations and result simulations from the paper:
 
-<u>_"Spacecraft Swarming for Tumbling Target Capture with Decentralized Behavioral Control; El Ghali Asri, Zheng H. Zhu;  Acta Astronautica (2024)"_</u>
+<u>"Spacecraft Swarming for Tumbling Target Capture with Decentralized Behavioral Control; El Ghali Asri, Zheng H. Zhu;  Acta Astronautica (2024)"</u>
 
 **_Target capture using a swarm of small satellites - Case 1:**
 
