@@ -6,6 +6,4 @@ To explore the content, please navigate to the folders ***named after each publi
 
 Thank you for your interest.
 
-<span font="color: green"> Some green text </span>
-
 ## El Ghali ASRI
