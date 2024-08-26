@@ -4,7 +4,7 @@ This GitHub repository hosts videos and animations associated with various scien
 
 To explore the content, please navigate to the folders ***named after each publication*** (click the links below). Inside each folder, the corresponding README file contains the simulation results and animation videos.
 
->[_"El Ghali Asri and Zheng Hong Zhu. "Shape Reconstruction of Unknown Tumbling Target using Factor Graph-based Dynamic SLAM," AIAA 2025-xxxx. AIAA SCITECH 2025 Forum. January 2025."_]()
+>[_"El Ghali Asri and Zheng Hong Zhu. "Shape Reconstruction of Unknown Tumbling Target using Factor Graph-based Dynamic SLAM," AIAA 2025-xxxx. AIAA SCITECH 2025 Forum. January 2025."_](https://github.com/Pontmousse/Spacecraft-Swarm-OOS/tree/main/Shape%20Reconstruction%20of%20Unknown%20Tumbling%20Target%20using%20Factor%20Graph-based%20Dynamic%20SLAM)
 
 >[_"Spacecraft Swarming for Tumbling Target Capture with Decentralized Behavioral Control; El Ghali Asri, Zheng H. Zhu; Acta Astronautica (2024)."_](https://github.com/Pontmousse/Spacecraft-Swarm-OOS/tree/main/Spacecraft%20Swarming%20for%20Tumbling%20Target%20Capture%20with%20Decentralized%20Behavioral%20Control%20(3D%20version))
 
