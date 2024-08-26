@@ -10,7 +10,11 @@ https://github.com/user-attachments/assets/2f43b0e6-cc71-4511-a137-ff7ac96cf3f1
 
 ## **Target capture using a swarm of small satellites - Case 2 (Figure 8):**
 
+https://github.com/user-attachments/assets/92aaa169-ecf5-4e4b-bd3a-390889475b6b
+
 ## **Target capture using a swarm of small satellites - Case 3 (Figure 11):**
+
+https://github.com/user-attachments/assets/d667f7fd-6709-48b0-9cef-7520cfbbc550
 
 ## **Target capture using a swarm of small satellites - Case 1 - Agent's perspective (Figure 13):**
 
