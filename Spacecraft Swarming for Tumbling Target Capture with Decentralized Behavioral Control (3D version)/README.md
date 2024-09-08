@@ -6,7 +6,7 @@ Below are animations and result simulations from the paper:
 
 ## **Target capture demonstration:**
 
-https://github.com/user-attachments/assets/59c29bbb-b542-4fd7-bbe4-d26c5db2a2f4
+
 
 ## **Target capture using a swarm of small satellites - Case 1 (Figure 12):**
 
