@@ -1,11 +1,5 @@
 # Hello !
 
-
-
-https://github.com/user-attachments/assets/dbf2e486-877c-427f-809d-d65172fb7c95
-
-
-
 Below are animations and result simulations from the paper:
 
 >*"El Ghali Asri and Zheng Hong Zhu. "Capturing an Unknown Uncooperative Target with a Swarm of Spacecraft," AIAA 2024-0625. AIAA SCITECH 2024 Forum. January 2024."*
