@@ -6,7 +6,7 @@ Below are animations and result simulations from the paper:
 
 ## **Shape Reconstruction of Target Point Cloud (Figure 7):**
 
-https://github.com/user-attachments/assets/833101c3-0eb7-4705-b5bf-02561c7e78d3
+https://github.com/user-attachments/assets/ac05d7fe-caf7-4657-a9fc-008d07246c6a
 
 ## **Shape Reconstruction of Target Point Cloud (Figure 10):**
 
