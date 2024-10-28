@@ -6,7 +6,7 @@ Below are animations and result simulations from the paper:
 
 ## **Shape Reconstruction of Static Target (Figure 7):**
 
-https://github.com/user-attachments/assets/ef6fd2e2-7a55-4376-b952-6d3074ee77db
+https://github.com/user-attachments/assets/a226c50a-3bc8-4c3a-9a42-d33e307cc95b
 
 ## **Map Trail Phenomenon (Figure 9):**
 
