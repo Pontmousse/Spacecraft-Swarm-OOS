@@ -2,7 +2,7 @@
 
 Below are animations and result simulations from the paper:
 
->*"Spacecraft Swarming for Tumbling Target Capture with Decentralized Behavioral Control; El Ghali Asri, Zheng H. Zhu;  Aerospace Science & Technology (2024)"*
+>*"TBD"*
 
 ## **Target capture demonstration:**
 
