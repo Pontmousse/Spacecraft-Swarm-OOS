@@ -2,7 +2,7 @@
 
 Below are animations and result simulations from the paper:
 
->*"El Ghali Asri and Zheng Hong Zhu. "Shape Reconstruction of Unknown Tumbling Target using Factor Graph-based Dynamic SLAM," AIAA 2025-0002. AIAA SCITECH 2025 Forum. January 2025."*
+>*"El Ghali Asri and Zheng Hong Zhu. "Shape Reconstruction of Unknown Tumbling Target using Factor Graph-based Dynamic SLAM," AIAA 2025-0180. AIAA SCITECH 2025 Forum. January 2025."*
 
 ## **Shape Reconstruction of Static Target (Figure 4):**
 
