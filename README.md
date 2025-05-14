@@ -6,13 +6,13 @@ To explore the content, please navigate to the folders ***named after each publi
 
 # Work in progress
 
->[_"El Ghali Asri and Zheng Hong Zhu. Spacecraft Swarming for Tumbling Target Capture with Decentralized Behavioral Control (3D version). (work in progress)"_](https://github.com/Pontmousse/Spacecraft-Swarm-OOS/tree/main/Spacecraft%20Swarming%20for%20Tumbling%20Target%20Capture%20with%20Decentralized%20Behavioral%20Control%20(3D%20version))
-
 >["El Ghali Asri and Zheng Hong Zhu. Collaborative Swarm Shape Reconstruction of Tumbling Space Targets via Decentralized Dynamic Factor Graph Optimization. (work in progress)"](https://github.com/Pontmousse/Spacecraft-Swarm-OOS/tree/main/Collaborative%20Swarm%20Shape%20Reconstruction%20of%20Tumbling%20Space%20Targets%20via%20Decentralized%20Dynamic%20Factor%20Graph%20Optimization)
 
 >["El Ghali Asri and Zheng Hong Zhu. Dynamic SLAM with Factor Graphs for Shape Recovery of Tumbling Objects in Space. (work in progress)"](https://github.com/Pontmousse/Spacecraft-Swarm-OOS/tree/main/Dynamic%20SLAM%20with%20Factor%20Graphs%20for%20Shape%20Recovery%20of%20Tumbling%20Objects%20in%20Space)
 
 # Published
+
+>[_"El Ghali Asri and Zheng Hong Zhu. "Bioinspired Consensus-based Spacecraft Swarm Control for Autonomous Capture of Uncooperative Targets," ACTA ASTRONAUTICA. May 2025." ](https://github.com/Pontmousse/Spacecraft-Swarm-OOS/tree/main/Spacecraft%20Swarming%20for%20Tumbling%20Target%20Capture%20with%20Decentralized%20Behavioral%20Control%20(3D%20version))
 
 >[_"El Ghali Asri and Zheng Hong Zhu. "Shape Reconstruction of Unknown Tumbling Target using Factor Graph-based Dynamic SLAM," AIAA 2025-0180. AIAA SCITECH 2025 Forum. January 2025."_](https://github.com/Pontmousse/Spacecraft-Swarm-OOS/tree/main/Shape%20Reconstruction%20of%20Unknown%20Tumbling%20Target%20using%20Factor%20Graph-based%20Dynamic%20SLAM)
 
