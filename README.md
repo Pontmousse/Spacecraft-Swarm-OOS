@@ -6,7 +6,7 @@ To explore the content, please navigate to the folders ***named after each publi
 
 # Work in progress
 
->["El Ghali Asri and Zheng Hong Zhu. Collaborative Swarm Shape Reconstruction of Tumbling Space Targets via Decentralized Dynamic Factor Graph Optimization. (work in progress)"](https://github.com/Pontmousse/Spacecraft-Swarm-OOS/tree/main/Collaborative%20Swarm%20Shape%20Reconstruction%20of%20Tumbling%20Space%20Targets%20via%20Decentralized%20Dynamic%20Factor%20Graph%20Optimization)
+>["El Ghali Asri and Zheng Hong Zhu. Collaborative Swarm Shape Reconstruction of Tumbling Space Targets via Decentralized Dynamic Factor Graph Optimization. (accepted IROS25 - under final revision)"](https://github.com/Pontmousse/Spacecraft-Swarm-OOS/tree/main/Collaborative%20Swarm%20Shape%20Reconstruction%20of%20Tumbling%20Space%20Targets%20via%20Decentralized%20Dynamic%20Factor%20Graph%20Optimization)
 
 >["El Ghali Asri and Zheng Hong Zhu. Dynamic SLAM with Factor Graphs for Shape Recovery of Tumbling Objects in Space. (work in progress)"](https://github.com/Pontmousse/Spacecraft-Swarm-OOS/tree/main/Dynamic%20SLAM%20with%20Factor%20Graphs%20for%20Shape%20Recovery%20of%20Tumbling%20Objects%20in%20Space)
 
