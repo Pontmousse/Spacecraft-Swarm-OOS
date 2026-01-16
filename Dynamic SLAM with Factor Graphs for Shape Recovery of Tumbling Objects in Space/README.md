@@ -2,7 +2,7 @@
 
 Below are animations and result simulations from the paper:
 
->*"El Ghali Asri and Zheng Hong Zhu. "Dynamic SLAM and Factor Graph for 3D Shape Reconstruction of Tumbling Space Objects. IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS. (2026)"*
+>*"El Ghali Asri and Zheng Hong Zhu. "Dynamic SLAM and Factor Graph for 3D Shape Reconstruction of Tumbling Space Objects. IEEE Transactions on aerospace and electronics systems. (2026)"*
 
 ## **Shape Reconstruction of Static Target (Figure 6):**
 
