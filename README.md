@@ -8,7 +8,7 @@ To explore the content, please navigate to the folders ***named after each publi
 
 # Published
 
->["El Ghali Asri and Zheng Hong Zhu. Dynamic SLAM and Factor Graph for 3D Shape Reconstruction of Tumbling Space Objects.  IEEE Transactions on aerospace and electronics systems. (2026) (under revision)"](https://github.com/Pontmousse/Spacecraft-Swarm-OOS/tree/main/Dynamic%20SLAM%20with%20Factor%20Graphs%20for%20Shape%20Recovery%20of%20Tumbling%20Objects%20in%20Space)
+>["El Ghali Asri and Zheng Hong Zhu. Dynamic SLAM and Factor Graph for 3D Shape Reconstruction of Tumbling Space Objects.  IEEE Transactions on aerospace and electronics systems. August 2026."](https://github.com/Pontmousse/Spacecraft-Swarm-OOS/tree/main/Dynamic%20SLAM%20with%20Factor%20Graphs%20for%20Shape%20Recovery%20of%20Tumbling%20Objects%20in%20Space)
 
 >["El Ghali Asri and Zheng Hong Zhu. Collaborative Swarm Shape Reconstruction of Tumbling Space Targets via Decentralized Dynamic Factor Graph Optimization. (presented IROS25)"](https://github.com/Pontmousse/Spacecraft-Swarm-OOS/tree/main/Collaborative%20Swarm%20Shape%20Reconstruction%20of%20Tumbling%20Space%20Targets%20via%20Decentralized%20Dynamic%20Factor%20Graph%20Optimization)
 
