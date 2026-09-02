@@ -2,7 +2,7 @@
 
 Below are animations and result simulations from the paper:
 
->*"El Ghali Asri and Zheng Hong Zhu. "Collaborative Swarm Shape Reconstruction of Tumbling Space Targets via Decentralized Dynamic Factor Graph Optimization."*
+>*"El Ghali Asri and Zheng Hong Zhu. "Collaborative Swarm Shape Reconstruction of Tumbling Space Targets via Decentralized Dynamic Factor Graph Optimization.IROS 2025."*
 
 ## **Visualization of individual agent target map (Figure 5):**
 
